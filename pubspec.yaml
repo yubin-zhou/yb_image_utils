@@ -1,11 +1,17 @@
 name: yb_image_utils
 description: 一个图片圆角工具
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/yubin-zhou/yb_image_utils.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
   flutter: ">=1.17.0"
+
+platforms:
+  android:
+  ios:
+  web:
+
 
 dependencies:
   flutter:
